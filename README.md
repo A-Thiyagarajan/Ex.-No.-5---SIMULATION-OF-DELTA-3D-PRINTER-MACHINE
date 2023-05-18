@@ -80,4 +80,4 @@ LCD stands for Liquid Crystal Display. In the context of a delta 3D printer asse
 ### Register Number: 212222240110
 
 ## Result: 
-### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
